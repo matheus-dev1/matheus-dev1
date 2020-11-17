@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**matheus-dev1/matheus-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/matheusop1/)
 
 <h1>GitHub Stats Card</h1>
 
