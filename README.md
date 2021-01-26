@@ -1,4 +1,6 @@
-> # Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Olá, bem-vindo ao meu perfil <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+Me chamo Matheus, sou formado em Analise e Desenvolvimento de Sistema e atualmente estou fazendo um Bootcamp Full Stack na Recode Pro.
 
 [![Linkedin Badge](https://img.shields.io/badge/-matheusop1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusop1/)](https://www.linkedin.com/in/matheusop1/)![visitors](https://visitor-badge.glitch.me/badge?page_id=matheus-dev1.matheus-dev1)
 
