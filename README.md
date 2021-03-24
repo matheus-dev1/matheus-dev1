@@ -1,6 +1,18 @@
-# Olá, bem-vindo ao meu perfil <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello World, bem-vindo ao meu perfil <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Me chamo Matheus, sou formado em Analise e Desenvolvimento de Sistema e atualmente estou fazendo um Bootcamp Full Stack na Recode Pro.
+Bom, eu me chamo Matheus de Oliveira Silva.
+
+Vou contar um pouco sobre a minha história como programador ate aqui.
+
+Quando eu estava terminando o ensino médio, um amigo meu que já era programador me apresentou ao mundo da programação, e eu achei incrível, no final do curso eu já fui estudando um pouco sobre.
+
+Quando fui fazer o Enem eu tinha ciência do que eu gostaria de fazer.
+
+Com a nota do Enem eu consegui uma bolsa de 70% de desconto na Anhanguera no curso de Analise e Desenvolvimento de sistema no qual teve uma duração de 3 anos e eu me formei em 2021.
+
+Em set/2020 eu comecei um Bootcamp Full Stack na Recode Pro, onde eu aprimorei os meus conhecimentos de programação, e eu o conclui em mar/2021
+
+E com estas experiências eu me tornei um Desenvolvedor Web
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matheusop1"/>
 
