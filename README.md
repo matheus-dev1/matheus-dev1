@@ -2,7 +2,7 @@
 
 Me chamo Matheus, sou formado em Analise e Desenvolvimento de Sistema e atualmente estou fazendo um Bootcamp Full Stack na Recode Pro.
 
-[![Linkedin Badge](https://img.shields.io/badge/-matheusop1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusop1/)](https://www.linkedin.com/in/matheusop1/)
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matheusop1"/>
 
 <h1>GitHub Stats Card</h1>
 
