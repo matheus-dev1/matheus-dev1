@@ -39,6 +39,7 @@ Me chamo Matheus, sou formado em Analise e Desenvolvimento de Sistema e atualmen
 ### Database
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 ### Deploy
 
