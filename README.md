@@ -8,7 +8,7 @@ Quando eu estava terminando o ensino médio, um amigo meu que já era programado
 
 Quando fui fazer o Enem eu tinha ciência do que eu gostaria de fazer.
 
-Com a nota do Enem eu consegui uma bolsa de 70% de desconto na Anhanguera no curso de Analise e Desenvolvimento de sistema no qual teve uma duração de 3 anos e eu me formei em 2021.
+Com a nota do Enem eu consegui uma bolsa de 70% de desconto na Anhanguera no curso de Analise e Desenvolvimento de sistema no qual teve uma duração de 3 anos e eu me formei em dez/2020.
 
 Em set/2020 eu comecei um Bootcamp Full Stack na Recode Pro, onde eu aprimorei os meus conhecimentos de programação, e eu o conclui em mar/2021
 
