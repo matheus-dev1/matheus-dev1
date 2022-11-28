@@ -2,7 +2,7 @@
 
 Olá, sou o Matheus, sou formado em Analise e Desenvolvimento de Sistemas pela Anhanguera e atualmente estou no cargo de Analista de Engenharia de TI Pleno no Itau Unibanco.
 
-Caso queiram conversar comigo, fique à vontade em chamar-me aqui no Linkedin ou se preferirem enviar-me um e-mail: matheusdeoliveiraferrero@hotmail.com
+Caso queiram conversar comigo, fique à vontade em me enviar um e-mail: matheusdeoliveiraferrero@hotmail.com
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matheusop1"/>
 
