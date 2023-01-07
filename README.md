@@ -4,6 +4,8 @@ Olá, sou o Matheus, sou formado em Analise e Desenvolvimento de Sistemas pela A
 
 Caso queiram conversar comigo, fique à vontade em me enviar um e-mail: matheusdeoliveiraferrero@hotmail.com
 
+### Contatos
+
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matheusop1"/>
 
 <h1>GitHub Stats Card</h1>
@@ -46,6 +48,7 @@ Caso queiram conversar comigo, fique à vontade em me enviar um e-mail: matheusd
 
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ### Deploy
 
