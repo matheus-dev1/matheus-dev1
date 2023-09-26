@@ -4,11 +4,6 @@ Olá, sou o Matheus, sou formado em Analise e Desenvolvimento de Sistemas pela A
 
 Caso queiram conversar comigo, fique à vontade em me enviar um e-mail: matheusdeoliveiraferrero@hotmail.com
 
-### Contatos
-
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matheusop1"/>
-<img alt="MicrosoftOutlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-
 <h1>GitHub Stats Card</h1>
 
 ![Matheus Oliveira's github stats](https://github-readme-stats.vercel.app/api?username=matheus-dev1&show_icons=true&theme=material-palenight)
