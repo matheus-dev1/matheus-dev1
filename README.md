@@ -10,14 +10,14 @@ Certificado AWS Certified Cloud Practitioner.
 E-mail: matheusdeoliveiraferrero@hotmail.com
 Github: github.com/matheus-dev1
 
-Linguagens: Java 8, 11 e 17
-Frameworks: Spring Boot, Spring Cloud e Java EE
-Testes e Frameworks: Junit, Powermock, Mockito
-Infra as code: Terraform, Cloud Formation
-Arquiteturas: Clean Architecture
-Ferramentas de Monitoramento: Prometheus, Grafana, Jaeger, Splunk
-Ferramentas de CI/CD: Jenkins, GitLab CI, Github Actions, CodePipeline, CodeDeploy, CodeBuild.
-Orquestração de Containers: Docker, Kubernetes (Rancher)
-Qualidade de Código: Sonar
-Metodologia Ágeis: Scrum e Kanban
-Sistemas operacionais: Windows e Linux
+- Linguagens: Java 8, 11 e 17
+- Frameworks: Spring Boot, Spring Cloud e Java EE
+- Testes e Frameworks: Junit, Powermock, Mockito
+- Infra as code: Terraform, Cloud Formation
+- Arquiteturas: Clean Architecture
+- Ferramentas de Monitoramento: Prometheus, Grafana, Jaeger, Splunk
+- Ferramentas de CI/CD: Jenkins, GitLab CI, Github Actions, CodePipeline, CodeDeploy, CodeBuild.
+- Orquestração de Containers: Docker, Kubernetes (Rancher)
+- Qualidade de Código: Sonar
+- Metodologia Ágeis: Scrum e Kanban
+- Sistemas operacionais: Windows e Linux
