@@ -1,6 +1,6 @@
 # Matheus Silva
 
-### Engenheiro de Software backend - Java
+### Engenheiro de software backend - Java
 
 Profissional com mais de 3 anos de experiência em desenvolvimento de software, com foco no mercado financeiro.<br/>
 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera.<br/>
