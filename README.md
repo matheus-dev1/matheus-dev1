@@ -2,13 +2,12 @@
 
 ### Engenheiro de Software backend - Java
 
-Profissional com mais de 3 anos de experiência em desenvolvimento de software, com foco no mercado financeiro.
-Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera.
-Concluí um bootcamp intensivo de 6 meses em desenvolvimento fullstack.
-Certificado AWS Certified Cloud Practitioner.
+Profissional com mais de 3 anos de experiência em desenvolvimento de software, com foco no mercado financeiro.<br/>
+Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera.<br/>
+Concluí um bootcamp intensivo de 6 meses em desenvolvimento fullstack.<br/>
+Certificado AWS Certified Cloud Practitioner.<br/>
 
-E-mail: matheusdeoliveiraferrero@hotmail.com
-Github: github.com/matheus-dev1
+Contato: matheusdeoliveiraferrero@hotmail.com
 
 - Linguagens: Java 8, 11 e 17
 - Frameworks: Spring Boot, Spring Cloud e Java EE
