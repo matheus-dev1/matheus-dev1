@@ -13,7 +13,7 @@ Contato: matheusdeoliveiraferrero@hotmail.com
 - Frameworks: Spring Boot, Spring Cloud e Java EE
 - Testes e Frameworks: Junit, Powermock, Mockito
 - Infra as code: Terraform, Cloud Formation
-- Arquiteturas: Clean Architecture
+- Arquiteturas: Clean Architecture, MVC
 - Ferramentas de Monitoramento: Prometheus, Grafana, Jaeger, Splunk
 - Ferramentas de CI/CD: Jenkins, GitLab CI, Github Actions, CodePipeline, CodeDeploy, CodeBuild.
 - Orquestração de Containers: Docker, Kubernetes (Rancher)
