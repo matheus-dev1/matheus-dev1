@@ -2,7 +2,7 @@
 
 ### Engenheiro de software backend - Java
 
-Profissional com mais de 3 anos de experiência em desenvolvimento de software, com foco no mercado financeiro.<br/>
+Profissional com mais de 4 anos de experiência em desenvolvimento de software, com foco no mercado financeiro.<br/>
 Graduado em Análise e Desenvolvimento de Sistemas pela Anhanguera.<br/>
 Concluí um bootcamp intensivo de 6 meses em desenvolvimento fullstack.<br/>
 Certificado AWS Certified Cloud Practitioner.<br/>
